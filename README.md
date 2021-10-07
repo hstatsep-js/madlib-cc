@@ -22,8 +22,9 @@ Using your knowledge of variables, strings, `prompt()`, and `document.write()`, 
   d. As you are working in the files, make sure you `push`/`pull` your work! Here's what your flow might look like when you reach a good stopping point:  
 `git add .`  
 `git commit -m "update repo"`  
-`git pull`  
 `git push`  
+(OR `gp`)
+Partner will then `git pull`
 Revisit the [students](https://hstatsep.github.io/students/#github) page for any extra Github help.
 
 Happy coding!
