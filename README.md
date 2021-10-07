@@ -24,7 +24,7 @@ Using your knowledge of variables, strings, `prompt()`, and `document.write()`, 
 `git commit -m "update repo"`  
 `git push`  
 (OR `gp`)  
-Partner will then `git pull`
+Partner will then `git pull`  
 Revisit the [students](https://hstatsep.github.io/students/#github) page for any extra Github help.
 
 Happy coding!
