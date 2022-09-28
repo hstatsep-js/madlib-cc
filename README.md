@@ -14,7 +14,7 @@ Using your knowledge of variables, strings, `prompt()`, and `document.write()`, 
 * Use `style.css` to give your page some flare!
 
 ## Directions
-1. After you have your own copy of the repo, all group members should clone the repo into `~/js/classwork/`
+1. After you have your own copy of the repo, all group members should clone the repo into `/js/classwork/`
 2. Roles: everyone is a thinker, but they should be "driving" at different points:  
   a. One partner should drive in their IDE while making `plan.md`. Work together to discuss and write down the madlib in PLAIN english. NO code.  
   b. The other partner should be the driver in their IDE while writing JS in `script.js`. But remember, all group members should be helping! Include the period number at the top of `script.js`  
